@@ -5508,7 +5508,7 @@ module.exports = {
     "borderBottomWidth": 2,
     "borderBottomStyle": "solid",
     "borderBottomColor": "#DDDDDD",
-    "backgroundColor": "#FFFFFF"
+    "backgroundColor": "#A1F1F1"
   },
   "loading": {
     "width": 750,
